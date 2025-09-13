@@ -131,7 +131,7 @@ button:hover{
     background-image:url(./img/photo.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
-    width: 300px;
+    width: 100%;
     height: 300px;
     box-shadow: 0 0 30px rgba(238, 4, 4, 0.5);
 }
@@ -252,4 +252,5 @@ img{
 
 #submit{
     width:50rem;
+
 }
