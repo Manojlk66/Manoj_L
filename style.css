@@ -131,8 +131,9 @@ button:hover{
     background-image:url(./img/photo.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
-    width: 100%;
+    width: 300px;
     height: 300px;
+    padding:50%;
     box-shadow: 0 0 30px rgba(238, 4, 4, 0.5);
 }
 .image{
@@ -254,3 +255,4 @@ img{
     width:50rem;
 
 }
+
