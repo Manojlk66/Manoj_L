@@ -4,6 +4,11 @@ body{
     margin: 0%;
     scroll-behavior: smooth;
 }
+#home{
+    display:flex;
+    align-item:center;
+    justify-content:space around;
+}
 
 
 nav{
@@ -255,4 +260,5 @@ img{
     width:50rem;
 
 }
+
 
